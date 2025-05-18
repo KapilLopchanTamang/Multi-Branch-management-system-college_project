@@ -1,6 +1,6 @@
 # Weekly Progress Report
 
-**Student Name:** Kapil Thamar  
+**Student Name:** Kapil Tamang
 **Week Number:** 4  
 **Report Duration:** From May 12, 2025 To May 18, 2025  
 **Report Submission Date:** May 18, 2025  
